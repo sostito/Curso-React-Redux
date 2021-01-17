@@ -1,10 +1,5 @@
 import React from 'react';
 import './search.css';
-// function Search(props) {
-//   return (
-//     <form action=""></form>
-//   )
-// }
 
 const Search = (props) => (
   <form
